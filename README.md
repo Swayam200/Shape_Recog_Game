@@ -2,18 +2,18 @@
 Shape Recognition AI Game is an interactive Python-based game that combines drawing, machine learning, and fun. Players are challenged to draw specific shapes, and an AI model predicts what they’ve drawn. Earn points by drawing the correct shape!  
 
 ### Features  
--Interactive Drawing Area: Use your mouse to draw shapes in a dedicated canvas.
--Machine Learning Predictions: An AI model predicts the shape you’ve drawn.
--Real-Time Feedback: Get feedback on your drawings (e.g., "Correct!" or "Not quite!").
--Dynamic Learning: The AI improves over time as new shapes are added to the training set.
--Enhanced UI: Modern, visually appealing interface with rounded buttons, clear instructions, and intuitive controls.
+Interactive Drawing Area: Use your mouse to draw shapes in a dedicated canvas.  
+Machine Learning Predictions: An AI model predicts the shape you’ve drawn.  
+Real-Time Feedback: Get feedback on your drawings (e.g., "Correct!" or "Not quite!").  
+Dynamic Learning: The AI improves over time as new shapes are added to the training set.  
+Enhanced UI: Modern, visually appealing interface with rounded buttons, clear instructions, and intuitive controls.  
 
 ### Technologies Used  
--Programming Language: Python
--Libraries:
--- pygame for creating the interactive game UI.
--- numpy and scikit-learn for AI model training and predictions.
--- opencv for feature extraction from the drawings.
+Programming Language: Python  
+Libraries:  
+-pygame for creating the interactive game UI.  
+-numpy and scikit-learn for AI model training and predictions.  
+-opencv for feature extraction from the drawings.
 
 ### Setup Instructions 
 1. Clone the Repostiory
@@ -41,10 +41,10 @@ The AI model updates dynamically with your input, improving its predictions over
 ![Screenshot 2025-01-10 at 6 24 26 AM](https://github.com/user-attachments/assets/a790d599-db25-4134-9910-d21d8d7ae579)
 
 ### Future Enhancements 
--Add more shapes (e.g., pentagon, hexagon).
--Implement difficulty levels (easy, medium, hard).
--Introduce a timer for more challenging gameplay.
--Add user profiles and score tracking.
--Create a leaderboard for competitive play.
+Add more shapes (e.g., pentagon, hexagon).  
+Implement difficulty levels (easy, medium, hard).  
+Introduce a timer for more challenging gameplay.  
+Add user profiles and score tracking.  
+Create a leaderboard for competitive play.  
 
 
